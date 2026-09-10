@@ -4,9 +4,9 @@ An AI-powered product review classifier that detects **sentiment** and **issue t
 
 ---
 
-## 🚀 Demo
+## 🖥️ Application Screenshot
 
-![App Screenshot](screenshots/demo.png)
+![Product Review Classifier screenshot](screenshot.png)
 
 ---
 
